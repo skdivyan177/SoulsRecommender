@@ -53,7 +53,7 @@ public class ProjectA
             }
         } 
         /*
-         * this first if statement with its cases is in case the user is intermediate at games
+         * this else if statement with its cases is in case the user is intermediate at games
          */
         else if (skill.equalsIgnoreCase("Intermediate")) 
         {
@@ -76,7 +76,7 @@ public class ProjectA
             }
         }
         /*
-         * this first if statement with its cases is in case the user is advanced at games
+         * this else if statement with its cases is in case the user is advanced at games
          */ 
         else if (skill.equalsIgnoreCase("Advanced")) 
         {
