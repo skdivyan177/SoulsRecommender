@@ -46,7 +46,7 @@ public class ProjectA
                     recommendation = "Elden Ring";
                     break;
                 case "4":
-                    recommendation = "Dark Souls Remastered";
+                    recommendation = "Demon's Souls";
                     break;
                 default:
                     recommendation = "Elden Ring";
@@ -92,7 +92,7 @@ public class ProjectA
                     recommendation = "Elden Ring";
                     break;
                 case "4":
-                    recommendation = "Demon's Souls";
+                    recommendation = "Sekiro: Shadows Die Twice";
                     break;
                 default:
                     recommendation = "Sekiro: Shadows Die Twice";
