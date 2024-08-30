@@ -10,7 +10,7 @@ public class ProjectA
     {
         System.out.print("Welcome to the souls game recommender! Answer with a number to the following questions\n"
                             + "but first...");
-        String skill = souls();
+        souls();
     }
 
     /*
